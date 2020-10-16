@@ -1,6 +1,8 @@
 body {
     padding: 0px;
     margin: 0px;
+    letter-spacing: -0.84px;
+    font-family: 'Noto Sans KR', sans-serif;
 }
 
 .nav_bar {
@@ -82,7 +84,7 @@ body {
     display: block;
     position: absolute;
     box-sizing: border-box;
-    margin: 21px 0px 0px 16px;
+    margin: 21px 0px 21px 16px;
     padding: 0px 0px 0px 0px;
     font-size: 28px;
     font-weight: bold;
