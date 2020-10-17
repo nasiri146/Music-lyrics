@@ -1,7 +1,7 @@
 body {
     padding: 0px;
     margin: 0px;
-    letter-spacing: -0.84px;
+    letter-spacing: -0.4px;
     font-family: 'Noto Sans KR', sans-serif;
 }
 
@@ -91,7 +91,7 @@ body {
     font-stretch: normal;
     font-style: normal;
     line-height: 0.6;
-    letter-spacing: -0.84px;
+    letter-spacing: -0.4px;
     text-align: left;
     color: #ffffff;
 }
